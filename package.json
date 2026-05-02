@@ -1,5 +1,14 @@
 {
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
   "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "react-router-dom": "^7.14.2"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
   }
 }
